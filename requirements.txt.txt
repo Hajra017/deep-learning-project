@@ -1,0 +1,16 @@
+torch==2.9.0
+torchvision==0.24.0
+scikit-image==0.25.2
+tqdm==4.67.1
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
+opencv-python-headless==4.12.0.88
+albumentations==2.0.8
+torchmetrics==1.8.2
+staintools==2.1.2
+h5py
+numpy
+pandas
+pillow
+scipy

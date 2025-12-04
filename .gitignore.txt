@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset files
+dataset/
+dataset_extracted/
+dataset_clean/
+*.mat
+*.zip
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Model files
+*.pth
+*.h5
+models/
+checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
